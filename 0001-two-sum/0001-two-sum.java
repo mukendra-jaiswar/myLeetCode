@@ -5,10 +5,10 @@ class Solution {
         HashMap<Integer, Integer> hm = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
-            int rem = target - nums[i];
+            int key = target - nums[i];
 
-            if (hm.containsKey(rem)) {
-                return new int[]{hm.get(rem), i};
+            if (hm.containsKey(key)) {
+                return new int[]{hm.get(key), i};
             }
 
             hm.put(nums[i], i);
