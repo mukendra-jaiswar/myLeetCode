@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0001-two-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2974-minimum-number-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -75,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
