@@ -8,7 +8,9 @@ class Solution {
             {
                 sum+=accounts[i][j];
             }
-            maxWealth=Math.max(maxWealth,sum);
+            if(maxWealth<sum)
+            maxWealth=sum;
+            // maxWealth=Math.max(maxWealth,sum);
         }
         return maxWealth;
     }
