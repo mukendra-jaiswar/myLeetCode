@@ -17,7 +17,7 @@ class Solution {
                 mult=mult;
             }else if(nums[i]<0)
             {
-                mult=-1*mult;
+                mult=-mult;
             }
             else
             {
