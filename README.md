@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
