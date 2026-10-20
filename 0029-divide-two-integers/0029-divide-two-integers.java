@@ -12,10 +12,7 @@ class Solution {
         long b = Math.abs((long) divisor);
 
         int result = 0;
-//
-//
-//
-//
+
         // Subtract the largest possible multiples of divisor
         while (a >= b) {
             long temp = b;       // Current multiple of divisor
