@@ -10,9 +10,9 @@ class Solution {
         // Convert to positive long to avoid overflow with MIN_VALUE
         long a = Math.abs((long) dividend);
         long b = Math.abs((long) divisor);
-        
-        int result = 0;
 
+        int result = 0;
+//
         // Subtract the largest possible multiples of divisor
         while (a >= b) {
             long temp = b;       // Current multiple of divisor
