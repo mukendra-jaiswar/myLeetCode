@@ -10,8 +10,6 @@ class Solution {
         stack.push(-1);
 
         int maxLength = 0;
-
-        
         for (int i = 0; i < s.length(); i++) {
 
             if (s.charAt(i) == '(') {
