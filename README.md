@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2974-minimum-number-game) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0031-next-permutation) |
+| [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Polygons
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
