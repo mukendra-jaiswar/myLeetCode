@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1672-richest-customer-wealth) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0032-longest-valid-parentheses) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
