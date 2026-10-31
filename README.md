@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0032-longest-valid-parentheses) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 <!---LeetCode Topics End-->
