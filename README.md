@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0303-range-sum-query-immutable](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
