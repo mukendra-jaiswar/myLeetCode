@@ -1,6 +1,6 @@
 class Solution {
     private Map<Integer, Integer> memo = new HashMap<>();
-
+     //guys i dont understand this code right now i am just submitting it
     public int minOperations(int n) {
         if ((n & (n - 1)) == 0) { // power of 2
             return 1;
