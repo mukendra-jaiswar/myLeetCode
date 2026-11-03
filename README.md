@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -216,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
