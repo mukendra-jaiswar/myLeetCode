@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Polygons
