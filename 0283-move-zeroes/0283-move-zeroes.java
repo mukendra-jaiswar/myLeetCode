@@ -5,12 +5,13 @@ class Solution {
         {
             if(nums[i]!=0)
             {
-               int temp=nums[idx];
-               nums[idx]=nums[i];
-               nums[i]=temp;
+               int temp=nums[i];
+               nums[i]=nums[idx];
+               nums[idx]=temp;
                idx++;
             }
         }
+
         
     }
 }
