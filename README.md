@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
