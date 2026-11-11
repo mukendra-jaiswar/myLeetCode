@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0263-ugly-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -249,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
