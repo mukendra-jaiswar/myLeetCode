@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2409-count-days-spent-together) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3024-type-of-triangle) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
