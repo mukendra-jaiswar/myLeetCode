@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0367-valid-perfect-square) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2409-count-days-spent-together) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
