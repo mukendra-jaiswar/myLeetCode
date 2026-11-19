@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
