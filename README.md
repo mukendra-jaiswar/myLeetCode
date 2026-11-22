@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0202-happy-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0657-robot-return-to-origin) |
 | [2974-minimum-number-game](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2974-minimum-number-game) |
