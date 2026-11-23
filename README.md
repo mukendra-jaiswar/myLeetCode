@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0338-counting-bits) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
