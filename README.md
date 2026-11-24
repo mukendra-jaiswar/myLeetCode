@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
