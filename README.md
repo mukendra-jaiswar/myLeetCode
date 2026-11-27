@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0189-rotate-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0231-power-of-two) |
 ## String Matching
