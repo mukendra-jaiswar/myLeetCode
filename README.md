@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2409-count-days-spent-together) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/0657-robot-return-to-origin) |
 | [2974-minimum-number-game](https://github.com/mukendra-jaiswar/myLeetCode/tree/master/2974-minimum-number-game) |
 ## Number Theory
